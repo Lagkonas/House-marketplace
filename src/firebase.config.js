@@ -3,7 +3,7 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDcemnc3QB-7x-o8md3HP-Ya75_Oe5Vk5g',
+  apiKey: 'AIzaSyC9p8a1m5iRTRDTmsEQ33F-Dla2USA5DYo',
   authDomain: 'house-marketplace-app-lagkonas.firebaseapp.com',
   projectId: 'house-marketplace-app-lagkonas',
   storageBucket: 'house-marketplace-app-lagkonas.appspot.com',
